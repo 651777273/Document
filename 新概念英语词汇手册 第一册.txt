@@ -1,0 +1,1457 @@
+
+
+excuse   v.原谅
+me   pron.我(宾格)
+yes   ad.是的
+is    v.be动词现在时第三人称单数
+this   pron.这
+your  pron.你的，你们的
+handbag      n.(女用)手提包 
+pardon      int.原谅，请再说一遍
+it     pron.它
+thank you     vt.感谢
+very much       非常地
+pen       n.钢笔
+pencil    n.铅笔   
+book      n.书
+watch     n.手表
+coat        n.上衣，外衣
+dress       n.连衣裙
+skirt         n.裙子
+shirt         n.衬衣
+car         n.小汽车
+house     n.房子
+umbrella         n.伞
+please           int.请
+here           ad.这里
+my            pron.我的
+ticket         n.票
+number       n.号码
+five           num. 五
+sorry         a.对不起的
+sir            n.先生
+cloakroom           n.衣帽存放处
+suit               v.适于
+school              n.学校
+teacher          n.老师
+son             n.儿子
+daughter           n.女儿
+Mr.               先生
+good             a.好
+morning            n.早晨
+Miss               小姐
+new             a.新的
+student              n.学生
+French              a.& n.法国人
+German            a.& n.德国人
+nice                 a.美好的
+meet              v.遇见
+Japanese              a.& n.日本人
+Korean                a.& n.韩国人
+Chinese              a.& n.中国人
+too                   ad.也
+make                n.(产品的)牌号
+Swedish                a.瑞典的
+English              a.英国的
+American              a.美国的
+Italian                  a.意大利的
+Volvo                   n.沃尔沃
+Peugeot               n.标致
+Mercedes                 n.梅赛德斯
+Toyota                      n.丰田
+Daewoo                 n.大宇
+Mini                    n.迷你
+Ford                   n.福特
+Fiat                   n.菲亚特
+I                      pron.我
+am                     v.be动词现在时第一人称单数
+are                    v.be动词现在时复数
+name                   n.名字
+what                   a.& pron.什么
+nationality            n.国籍
+job                    n.工作
+keyboard                       n.电脑键盘
+operator                     n.操作人员
+engineer                     n.工程师
+policeman                       n.警察
+policewoman                  n.女警察
+taxi driver                       出租汽车司机
+air hostess                     空中小姐
+postman                        n.邮递员
+nurse                               n.护士
+mechanic                          n.机械师
+hairdresser                       n.理发师
+housewife                        n.家庭妇女
+milkman                           n.送牛奶的人
+hello                               int.喂(表示问候)
+hi                                    int.喂，嗨
+how                                  ad.怎样
+today                                ad.今天
+well                                 a.身体好
+fine                                    a.美好的
+thanks                               int.谢谢
+goodbye                          int.再见
+see                                 v.见
+fat                                       a.胖的
+woman                                 n.女人
+thin                                      a.瘦的
+tall                                      a.高的
+short                                    a.矮的
+dirty                                    a.脏的
+clean                                    a.干净的；v.清洗
+hot                 a.热的
+cold                a.冷的
+old                 a.老的
+young               a.年轻的
+busy                a.忙的
+lazy                a.懒的
+whose                                 pron.谁的
+blue                            a.蓝色的
+perhaps                 ad.大概
+white                   a.白色的
+catch                     v.抓住
+father                 n.父亲
+mother             n.母亲
+blouse               n.女衬衫
+sister                 n.姐，妹
+tie               n.领带;联系,关系;vt.扎,束紧
+brother                n.兄，弟
+his                     pron. 他的
+her                    pron.她的
+colour                 n.颜色
+green                 a.绿色
+come                 v.来
+upstairs                ad.楼上
+smart                   a.时髦的，巧妙的
+hat                        n.帽子
+same                    a.相同的
+lovely                  a.可爱的，秀丽的
+case                      n.箱子
+carpet                    n.地毯
+dog                        n.狗
+customs                  n.海关
+officer                  n.官员
+girl                       n.女孩，姑娘
+Danish                    a.& n.丹麦人
+friend                        n.朋友
+Norwegian                   a.& n.挪威人
+passport                    n.护照
+brown                         a.棕色的
+tourist                           n.旅游者
+Russian                        a.& n.俄罗斯人
+Dutch                       a.& n.荷兰人
+these                      pron.这些
+red                       a.红色的
+grey                     a.灰色的
+yellow                   a.黄色的
+black                    a.黑色的
+orange                  a.橘黄色的；n.橙
+employee                 n.雇员
+hard-working               a.勤奋的
+sales reps                   推销员
+man                           n.男人
+office                          n.办公室
+assistant                      n.助手
+matter            n.事情
+children          n.孩子们
+tired            a.累，疲乏
+boy                n.男孩
+thirsty                a.渴
+mum                n.妈妈
+sit down                 坐下
+right                  a.好，可以；n.右边
+ice cream         冰淇淋
+big                 a.大的
+small                 a.小的
+open               a.开着的
+shut                  a.关着的
+light                a.轻的
+heavy               a.重的
+long                 a.长的
+shoe                  n.鞋子
+grandfather            n.祖父，外祖父
+grandmother         n.祖母，外祖母
+give                   v.给
+one                  pron.一个
+which                  pron.哪一个
+empty                   a.空的；v.倒空，使…变空
+full                      a.满的
+large                 a.大的
+little                   a.小的
+sharp                   a.尖的，锋利的
+small                    a.小的
+big                      a.大的
+blunt                   a.钝的
+box                     n.盒子，箱子
+glass                   n.杯子
+cup                   n.茶杯
+bottle                 n.瓶子
+tin                    n.罐头
+knife                  n.刀子
+fork                n.叉子
+on                prep.在…之上
+shelf                 n.架子，搁板
+desk                n.课桌
+table              n.桌子
+plate                  n.盘子
+cupboard               n.食橱
+cigarette             n.香烟
+television                 n.电视机
+floor                n.地板
+dressing table                    梳妆台
+magazine                 n.杂志
+bed                     n.床
+newspaper             n.报纸
+stereo                     n.立体声音响
+Mrs.                         n.夫人
+kitchen                    n.厨房
+refrigerator                 n.电冰箱
+right           a.好，可以；n.右边
+electric          a.带电的，可通电的
+left             n.左边
+cooker            n.炉子，炊具
+middle               n.中间
+of                  prep.(属于)…的
+room                 n.房间
+cup                   n.茶杯
+where                ad.在哪里
+in                       prep.在…里
+living room                客厅
+near                       prep.靠近
+window                     n.窗户
+armchair                   n.手扶椅
+door                         n.门
+picture                      n.图画
+wall                        n.墙
+trousers                    n.(复数)长裤
+shut                         a.关着的
+bedroom                     n.卧室
+untidy                         a.乱，不整齐
+must                           aux.v.必须，应该
+open                         a.开着的
+air                             v.使…通风，换换空气
+put                          v.放置
+clothes                          n.衣服
+wardrobe                       n.大衣柜
+dust                           v.掸掉灰尘
+sweep                        v.扫
+empty                       v.倒空，使…变空
+read                           v.读
+sharpen                      v.削尖，使锋利
+put on                       穿上
+take off                       脱掉
+turn on                          开(电灯)
+turn off                        关(电灯)
+garden                         n.花园
+under                          prep.在…之下
+tree                          n.树
+climb                         v.爬，攀登
+who                         pron.谁
+run                             v.跑
+grass                       n.草，草地
+after                        prep.在…之后
+cat                          n.猫
+type                        v.打字
+letter                      n.信
+basket                       n.篮子
+eat                            v.吃
+bone                         n.骨头
+clean                        a.干净的；v.清洗
+tooth                         n.牙齿
+cook                      v.做(饭菜)
+milk                       n.牛奶
+meal                       n.饭，一顿饭
+drink                   v.喝
+tap                   n.(水)龙头
+day                        n.日子
+cloud                     n.云
+sky                        n.天空
+sun                        n.太阳
+shine                     v.照耀
+with                     prep.和…在一起
+family                   n.家庭(成员)
+walk                       v.走路，步行
+over                       prep.跨越，在…之上
+bridge                    n.桥
+boat                      n.船
+river                     n.河
+ship                       n.轮船
+aeroplane                  n.飞机
+fly                         v.飞
+sleep                      v.睡觉
+shave                      v.刮脸
+cry                         v.哭，喊
+wash                     v.洗
+wait                        v.等
+jump                        v.跳
+photograph                   n.照片
+village                         n.村庄
+valley                         n.山谷
+between                      prep.在…之间
+hill                            n.小山
+another                       另一个
+wife                     n.妻子
+along                     prep.沿着
+bank                        n.河岸
+water                        n.水
+swim                        v.游泳
+across                       prep.横过，穿过
+building                       n.大楼，建筑物
+park                          n.公园
+into                           prep.进入
+beside                          prep.在…旁
+off                         prep.离开
+work                      v.工作
+hard                       ad.努力地
+make                    n.(产品的)牌号
+bookcase                     n.书橱，书架
+hammer                        n.锤子
+paint                            v.上漆，涂
+pink                           n.& a.粉红色
+favourite                      a.最喜欢的
+homework                 n.作业
+listen                         v.听
+dish                             n.盘子，碟子
+front                            n.前面
+in front of                        在…之前
+careful                           a.小心的，仔细的
+vase                              n.花瓶
+drop                           v.掉下
+flower                     n.花
+show                    v.给…看
+send                     v.送给
+take                  v.带给
+cheese                  n.乳酪，干酪
+bread                    n.面包
+soap                       n.肥皂
+chocolate                     n.巧克力
+sugar                      n.糖
+coffee                     n.咖啡
+tea                         n.茶
+tobacco                       n.烟草，烟丝
+bird                            n.鸟
+any                            a.一些
+some                        a.一些
+of course                      当然
+kettle                        n.水壶
+behind                       prep.在…后面
+teapot                      n.茶壶
+now                      ad.现在，此刻
+find                        v.找到
+boil                          v.沸腾，开
+can                          aux.v.能够
+boss                        n.老板，上司
+minute                       n.分(钟)
+ask                           v.请求，要求
+handwriting                    n.书写
+terrible                          a.糟糕的，可怕的
+lift
+v.拿起，搬起，举起
+cake
+n.饼，蛋糕
+biscuit
+n.饼干
+like
+v.喜欢，想要
+want
+v.想
+fresh
+a.新鲜的
+egg
+n.鸡蛋
+butter
+n.黄油
+pure
+a.纯净的
+honey
+n.蜂蜜
+ripe
+a.成熟的
+banana
+n.香蕉
+jam
+n.果酱
+sweet
+a.甜的
+orange
+a.橘黄色的；n.橙
+Scotch whisky
+苏格兰威士忌
+choice
+a.上等的，精选的
+apple
+n.苹果
+wine
+n.酒，果酒
+beer
+n.啤酒
+blackboard
+n.黑板
+butcher
+n.卖肉的
+meat
+n.(食用)肉
+beef
+n.牛肉
+lamb
+n.羔羊肉
+husband
+n.丈夫
+steak
+n.牛排
+mince
+n.肉馅，绞肉
+chicken
+n.鸡
+tell
+v.告诉
+truth
+n.实情
+either
+ad.也
+tomato
+n.西红柿
+potato
+n.土豆
+cabbage
+n.卷心菜
+lettuce
+n.莴苣
+pea
+n.豌豆
+bean
+n.豆角
+pear
+n.梨
+grape
+n.葡萄
+peach
+n.桃
+Greece
+n.希腊
+climate
+n.气候
+country
+n.国家; 乡村
+pleasant
+a.宜人的
+weather
+n.天气
+spring
+n.春季
+windy
+a.有风的
+warm
+a.温暖的
+rain
+v.下雨
+sometimes
+ad.有时
+summer
+n.夏天
+autumn
+n.秋天
+winter
+n.冬天
+snow
+v.下雪
+January
+n.一月
+February
+n.二月
+March
+n.三月
+April
+n.四月
+May
+n.五月
+June
+n.六月
+July
+n.七月
+August
+n.八月
+September
+n.九月
+October
+n. 十月
+November
+n.十一月
+December
+n.十二月
+the U.S.
+美国
+Brazil
+n.巴西
+Holland
+n.荷兰
+England
+n.英国
+France
+n.法国
+Germany
+n.德国
+Italy
+n.意大利
+Norway
+n.挪威
+Russia
+n.俄罗斯
+Spain
+n.西班牙
+Sweden
+n.瑞典
+mild
+a.温和的，温暖的
+always
+ad.总是
+north
+n.北方
+east
+n.东方
+wet
+a.潮湿的
+west
+n.西方
+south
+n.南方
+season
+n.季节
+best
+a. 最好的；ad.最,最好地
+night
+n.夜晚
+rise
+v.升起
+early
+ad.早
+set
+v.(太阳)落下去
+late
+ad.晚，迟
+interesting
+a.有趣的，有意思的
+subject
+n.话题,主题
+conversation
+n.谈话
+Australia
+n.澳大利亚
+Australian
+n.澳大利亚人
+Austria
+n.奥地利
+Austrian
+n.奥地利人
+Canada
+n.加拿大
+Canadian
+n.加拿大人
+China
+n.中国
+Finland
+n.芬兰
+Finnish
+n.芬兰人
+India
+n.印度
+Indian
+n.印度人
+Japan
+n.日本
+Nigeria
+n.尼日利亚
+Nigerian
+n.尼日利亚人
+Turkey
+n.土耳其
+Turkish
+n.土耳其人
+Korea
+n.韩国
+Polish
+n.波兰人
+Poland
+n.波兰
+Thai
+n.泰国人
+Thailand
+n.泰国
+live
+v.住，生活
+stay
+v.呆在，停留
+home
+n.家;ad.在家，到家
+housework
+n.家务
+lunch
+n.午饭
+afternoon
+n.下午
+usually
+ad.通常
+together
+ad.一起
+evening
+n.晚上
+arrive
+v.到达
+night
+n.夜晚
+oclock
+ad.点钟
+shop
+n.商店
+moment
+n.片刻，瞬间
+envelope
+n.信封
+writing paper
+信纸
+shop assistant
+售货员
+size
+n.尺寸，尺码，大小
+pad
+n.信笺簿
+glue
+n.胶水
+chalk
+n.粉笔
+change
+n.零钱，找给的钱;v.兑换(钱)
+feel
+v.感觉
+look
+v.看(起来)
+must
+aux.v.必须，应该
+call
+v.叫，请
+doctor
+n.医生
+telephone
+n.电话；v.打电话
+remember
+v.记得，记住
+mouth
+n.嘴
+tongue
+n.舌头
+bad
+a.坏的，严重的
+cold
+a.冷的
+news
+n.消息
+headache
+n.头痛
+aspirin
+n.阿斯匹林
+earache
+n.耳痛
+toothache
+n.牙痛
+dentist
+n.牙医
+stomach ache
+胃痛
+medicine
+n.药
+temperature
+n.温度
+flu
+n.流行性感冒
+measles
+n.麻疹
+mumps
+n.腮腺炎
+better
+a.较好的；ad.更好
+certainly
+ad.当然
+get up
+起床
+yet
+ad.还，仍
+rich
+a.油腻的
+food
+n.食物
+remain
+v.保持，继续
+play
+v.玩
+match
+n.火柴
+talk
+v.谈话
+library
+n.图书馆
+drive
+v.开车
+so
+ad.如此地
+quickly
+ad.快地
+lean out of
+身体探出
+break
+v.打破
+Dad
+n.爸(儿语)
+key
+n.钥匙
+baby
+n.婴儿
+hear
+v.听见
+enjoy
+v.玩得快活,享受……的乐趣
+yourself
+pron.你自己
+ourselves
+pron.我们自己
+myself
+pron.我自己
+themselves
+pron.他们自己
+himself
+pron.他自己
+herself
+pron.她自己
+greengrocer
+n.蔬菜水果零售商
+absent
+a.缺席的
+Monday
+n.星期一
+Tuesday
+n.星期二
+Wednesday
+n.星期三
+Thursday
+星期四
+keep
+v.(身体健康)处于(状况)
+spend
+v.度过
+weekend
+n.周末
+Friday
+n.星期五
+Saturday
+n.星期六
+Sunday
+n.星期日
+country
+n.国家; 乡村
+lucky
+a.幸运的
+church
+n.教堂
+dairy
+n.乳品店
+baker
+n.面包师傅
+grocer
+n.食品杂货商
+year
+n.年
+race
+n.比赛
+town
+n.城镇
+crowd
+n.人群
+stand
+v.站立
+exciting
+a.使人激动的
+just
+ad.正好，恰好
+finish
+n.结尾，结束
+winner
+n.获胜者
+behind
+prop.在…之后
+way
+n.路途
+awful
+ad.让人讨厌的，坏的
+telephone
+n.电话；v.打电话
+time
+n.次(数)
+answer
+v.接(电话)
+last
+a.最后的，前一次的
+phone
+n.电话
+again
+ad.又一次地
+say
+v.说
+week
+n.周
+London
+n.伦敦
+suddenly
+ad.突然地
+bus stop
+公共汽车车站
+smile
+v.微笑
+pleasantly
+ad.愉快地
+understand
+v.懂，明白
+speak
+v.讲，说
+hand
+n.手
+pocket
+n.衣袋
+phrasebook
+n.短语手册，常用语手册
+phrase
+n.短语
+slowly
+ad.缓慢地
+hurriedly
+ad.匆忙地
+cut
+v.割，切
+thirstily
+ad.口渴地
+go
+v.走
+greet
+v.问候，打招呼
+ago
+ad.以前
+buy
+v.买
+pair
+n.双，对
+fashion
+n.(服装的)流行式样
+uncomfortable
+a.不舒服的
+wear
+v.穿着
+appointment
+n.约会，预约
+urgent
+a.紧急的，急迫的
+till
+prep.直到…为止
+shopping
+n.购物
+list
+n.单子
+vegetable
+n.蔬菜
+need
+v.需要
+hope
+v.希望
+thing
+n.事情
+money
+n.钱
+groceries
+n.食品杂货
+fruit
+n.水果
+stationery
+n.文具
+newsagent
+n.报刊零售人
+chemist
+n.药剂师，化学家
+bath
+n.洗澡
+nearly
+ad.几乎，将近
+ready
+a.准备好的，完好的
+dinner
+n.正餐，晚餐
+restaurant
+n.饭馆，餐馆
+roast
+a.烤的
+breakfast
+n.早饭
+haircut
+n.理发
+party
+n.聚会
+holiday
+n.假日
+mess
+n.杂乱，凌乱
+pack
+v.包装，打包，装箱
+suitcase
+n.手提箱
+leave
+v.离开
+already
+ad.已经
+Paris
+n.巴黎
+cinema
+n.电影院
+film
+n.电影
+beautiful
+a.漂亮的
+city
+n.城市
+never
+ad.从来没有
+ever
+ad.在任何时候
+attendant
+n.接待员
+bring
+v.带来，送来
+garage
+n.车库，汽车修理厂
+crash
+n.碰撞
+lamp-post
+灯杆
+repair
+v.修理
+try
+v.努力，设法
+believe
+v.相信，认为
+may
+(用于请求许可)可以
+how long
+多长
+since
+prep.自从
+why
+ad.为什么
+sell
+v.卖，出售
+because
+conj.因为
+retire
+v.退休
+cost
+v.花费
+pound
+n.英镑(￡)
+worth
+prep.值…钱
+penny
+n.便士
+still
+ad.还，仍旧
+move
+v.搬家
+miss
+v.想念，思念
+neighbour
+n.邻居
+person
+n.人
+people
+n.人们
+poor
+a.可怜的; 贫穷的
+pilot
+n.飞行员
+return
+v.返回；n.往返
+New York
+n.纽约
+Tokyo
+n.东京
+Madrid
+n.马德里
+fly
+v.飞
+Athens
+n.雅典
+Berlin
+n.柏林
+Bombay
+n.孟买
+Geneva
+n.日内瓦
+Moscow
+n.莫斯科
+Rome
+n.罗马
+Seoul
+n.汉城
+Stockholm
+n.斯德哥尔摩
+Sydney
+n.悉尼
+return
+v.返回；n.往返
+train
+n.火车
+platform
+n.站台
+plenty
+n.大量
+bar
+n.酒吧
+station
+n.车站，火车站
+catch
+v.抓住
+miss
+v.想念，思念
+leave
+v.离开
+describe
+v.描述
+zip
+n.拉链
+label
+n.标签
+handle
+n.提手，把手
+address
+n.地址
+pence
+n. 便士
+belong
+v.属于
+ow
+int.哎哟
+slip
+v.滑倒，滑了一脚
+fall
+v.落下，跌倒
+downstairs
+ad.下楼
+hurt
+v.伤，伤害，疼痛
+back
+n.背
+stand up
+起立，站起来
+help
+v.帮助
+at once
+立即
+sure
+a.一定的，确信的
+X-ray
+n.X光透视
+Scotland
+n.苏格兰
+card
+n.明信片
+youth
+n.青年
+hostel
+n.招待所，旅馆
+association
+n.协会
+soon
+ad.不久
+write
+v.写
+exam
+n.考试
+pass
+v.及格，通过
+mathematics
+n.数学
+question
+n.问题
+easy
+a.容易的
+enough
+a.足够的；ad.足够地
+paper
+n.考卷
+fail
+v.未及格，失败
+answer
+v.接(电话)
+mark
+n.分数
+rest
+n.其他的东西
+difficult
+a.困难的
+hate
+v.讨厌
+low
+a.低的，矮的
+cheer
+v.振作，振奋
+guy
+n.家伙，人
+top
+n.上方，顶部
+clever
+a.聪明的
+stupid
+a.笨的
+cheap
+a.便宜的
+expensive
+a.贵的
+fresh
+a.新鲜的
+stale
+a.变馊的
+low
+a.低的，矮的
+loud
+a.大声的
+high
+a.高的
+hard
+ad.努力地
+sweet
+a.甜的
+soft
+a.软的
+sour
+a.酸的
+spell
+v.拼写
+intelligent
+a.聪明的，有智慧的
+mistake
+n.错误
+present
+n.礼物
+dictionary
+n.词典
+carry
+v.携带
+correct
+v.改正，纠正
+madam
+n.夫人，女士(对妇女的尊称)
+as well
+同样
+suit
+v.适于
+pretty
+a.漂亮的
+idea
+n.主意
+a little
+少许
+teaspoonful
+n.一满茶匙
+less
+a.较少的，更小的
+a few
+几个
+pity
+n.遗憾
+instead
+ad.代替
+advice
+n.建议，忠告
+most
+最多的
+least
+最小的，最少的
+best
+a. 最好的；ad.最,最好地
+worse
+更坏的
+worst
+a.最坏的
+model
+n.型号，式样
+afford
+v.付得起(钱)
+deposit
+n.预付定金
+instalment
+n.分期付款
+price
+n.价格
+millionaire
+n.百万富翁
+conductor
+n.售票员
+fare
+n.车费，车票
+change
+n.零钱，找给的钱;v.兑换(钱)
+note
+n.纸币
+passenger
+n.乘客
+none
+pron.没有任何东西
+neither
+ad.也不
+get off
+下车
+tramp
+n.流浪汉
+except
+prep.除…外
+anyone
+pron.任何人
+knock
+v.敲，打
+everything
+pron.一切事物
+quiet
+a.宁静的，安静的
+impossible
+a.不可能的
+invite
+v.邀请
+anything
+pron.任何东西
+nothing
+pron.什么也没有
+lemonade
+n.柠檬水
+joke
+v.开玩笑
+asleep
+a.睡觉，睡着
+glasses
+n.眼镜
+dining room
+饭厅
+coin
+n.硬币
+mouth
+n.嘴
+swallow
+v.吞下
+later
+ad.后来
+toilet
+n.厕所，盥洗室
+ring
+v.响
+story
+n.故事
+happen
+v.发生
+thief
+n.贼
+enter
+v.进入
+dark
+a.黑暗的
+torch
+n.手电筒
+voice
+n.(说话的)声音
+parrot
+n.鹦鹉
+exercise book
+练习本
+customer
+n.顾客
+forget
+v.忘记
+manager
+n.经理
+serve
+v.照应，服务，接待
+counter
+n.柜台
+recognize
+v.认识
+road
+n.路
+during
+prep.在…期间
+trip
+n.旅行
+travel
+v.旅行
+offer
+v.提供
+job
+n.工作
+guess
+v.猜
+grow
+v.长，让…生长
+beard
+n.(下巴上的)胡子，络腮胡子
+kitten
+n.小猫
+water
+n.水
+terribly
+ad.非常
+dry
+a.干燥的，干的
+nuisance
+n.讨厌的东西或人
+mean
+v.意味着，意思是
+surprise
+n.惊奇，意外的事
+immediately
+ad.立即地
+famous
+a.著名的
+actress
+n.女演员
+at least
+至少
+actor
+n.男演员
+read
+v.读
+wave
+v.招手
+track
+n.跑道
+mile
+n.英里
+overtake
+v.从后面超越，超车
+speed
+限速
+dream
+v.做梦，思想不集中
+sign
+n.标记，牌子
+driving licence
+驾驶执照
+charge
+v.罚款
+darling
+n.亲爱的（用作表示称呼）
+Egypt
+n.埃及
+abroad
+ad.国外
+worry
+v.担忧
+reporter
+n.记者
+sensational
+a.爆炸性的，耸人听闻的
+mink coat
+貂皮大衣
+future
+a.未来的
+get married
+结婚
+hotel
+n.饭店
+latest
+a.最新的
+introduce
+v.介绍
+football
+n.足球
+pool
+n.赌注
+win
+v.赢
+world
+n.世界
+poor
+a.可怜的; 贫穷的
+depend
+v.依靠
+extra
+a.额外的
+engineer
+n.工程师
+overseas
+a.海外的，国外的
+engineering
+n.工程
+company
+n.公司
+line
+n.线路
+excited
+a.兴奋的
+get on
+登上
+middle-aged
+a.中年的
+opposite
+prep.在…对面
+curiously
+ad.好奇地
+funny
+a.可笑的，滑稽的
+powder
+n.香粉
+compact
+n.带镜的化妆盒
+kindly
+ad.和蔼地
+ugly
+a.丑陋的
+amused
+a.有趣的
+smile
+v.微笑
+embarrassed
+a.尴尬的，窘迫的
+worried
+a.担心，担忧
+regularly
+ad.经常地，定期地
+surround
+v.包围
+wood
+n.树林
+beauty spot
+风景点
+hundred
+n.百
+city
+n.城市
+through
+prep.穿过
+visitor
+n.参观者，游客，来访者
+tidy
+a.整齐的
+litter
+n.杂乱的东西
+litter basket
+废物筐
+place
+v.放
+throw
+v.扔，抛
+rubbish
+n.垃圾
+count
+v.数，点
+cover
+v.覆盖
+piece
+n.碎片
+tyre
+n.轮胎
+rusty
+a.生锈的
+among
+prep.在…之间
+prosecute
+v.依法处置

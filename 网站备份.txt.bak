@@ -1,0 +1,161 @@
+poco 备份：
+https://blog.csdn.net/u010168781/article/details/78122953
+https://blog.csdn.net/wangxvfeng101/article/details/47002375
+https://blog.csdn.net/xie1xiao1jun/article/details/44084675
+https://blog.csdn.net/rankun1/article/details/54883291
+
+
+
+https://baike.baidu.com/item/Microsoft%20Visual%20Studio/4735644?fr=aladdin
+
+
+Windows SDK学习的网站：
+https://lellansin.wordpress.com/2013/08/25/windows-sdk-%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89-%E4%B8%80%E4%BA%9B%E7%BB%86%E8%8A%82%E4%BB%A5%E5%8F%8A%E5%8A%A8%E6%80%81%E5%88%9B%E5%BB%BA%E6%8E%A7%E4%BB%B6/#12
+
+
+
+
+
+    		// BASE64加密
+        //static std::string encode(const std::string &rsSource);
+        // BASE64解密
+        //static std::string decode(const std::string &rsSource);
+
+        string outstring;
+        string tempstr = "TNlE9GIGNHgygEkHjdu40TsKqZ7LfPBvB9boL5N4vGs=";
+        outstring = Crypot.decodeAES(tempstr,"zorro");
+
+        cout<<endl;
+        cout<<tempstr<<endl;
+        cout<<endl;
+        LOG4CXX_ERROR(m_logger,"解密后="<<outstring);
+
+
+        tempstr = "7TesNHGffb05TdhaFkqzUGOaU5Ix5a+2cvi7ID1qyvZEQzSUO71SicLgbVjW09JWcZjUGBuxtBfjn7li658POw==";
+        outstring = Crypot.decodeAES(tempstr,"zorro");
+        cout<<endl;
+        cout<<tempstr<<endl;
+        cout<<endl;
+        LOG4CXX_ERROR(m_logger,"解密后="<<outstring);
+        
+        // tempstr = "mysql://db=mas_20  host=10.223.62.69 port=3306 user=ngxt30 password=passwd@0026  charset=gbk";
+        tempstr = "oracle://service=ltjf user=smsplatform password=smspf_IYse_2jfs_jw7G";
+        outstring = Crypot.encodeAES(tempstr,"zorro");
+        cout<<endl;
+        cout<<tempstr<<endl;
+        cout<<endl;
+        LOG4CXX_ERROR(m_logger,"加密后="<<outstring);
+
+
+
+	std::string ACrypto::decodeAES( const std::string &rsSource,const std::string &rsKey )
+	{
+		string sResult;
+		try
+		{
+			Cipher::Ptr pCipher = CipherFactory::defaultFactory().createCipher(CipherKey("aes256",rsKey));
+
+			sResult = pCipher->decryptString(rsSource, Cipher::ENC_BASE64);
+		}
+		catch (...)
+		{
+		}		
+		return sResult;
+	}
+
+
+
+这个函数在
+decryptString
+Cipher.h
+
+decrypt
+
+CipherKeyImpl.h
+typedef Poco::AutoPtr<CipherKeyImpl> Ptr;
+	
+CipherFactory::defaultFactory()
+Cipher* createCipher(const CipherKey& key);
+CipherFactory.h
+
+三个文件
+Cipher.h
+CipherKeyImpl.h
+CipherFactory.h	
+
+Poco/Crypto/Crypto.h
+Poco/AutoPtr.h
+
+“E:\Vs_Projects\CreatorAES\Debug\PocoFoundationd.dll”的激活上下文生成失败。 找不到从属程序集
+ Microsoft.VC90.DebugCRT,processorArchitecture="x86",publicKeyToken="1fc8b3b9a1e18e3b",type="win32",version="9.0.21022.8"。 
+ 请使用 sxstrace.exe 进行详细诊断。
+ 
+https://github.com/Genoil/cpp-ethereum/blob/master/releases/ethminer-0.9.41-genoil-1.1.7.zip
+https://github.com/Genoil/cpp-ethereum.git        
+
+
+
+
+
+1． 第一个记忆周期：5分钟
+2． 第二个记忆周期：30分钟
+3． 第三个记忆周期：12小时
+4． 第四个记忆周期：1天
+5． 第五个记忆周期：2天
+6． 第六个记忆周期：4天
+7． 第七个记忆周期：7天
+8． 第八个记忆周期：15天
+
+
+
+
+
+
+
+#showtooltip
+/cast [help,nodead,@target]殉道者之光
+/cast [@player]赋予信仰
+
+
+
+
+
+
+
+严重性	代码	说明	项目	文件	行	禁止显示状态
+错误		
+
+
+远程linux服务器没开：
+Could not connect to the remote system. Please verify your connection settings, 
+and that your machine is on the network and reachable.	ConsoleApplication2	
+d:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Application Type\Linux\1.0\Linux.targets	269	
+
+
+
+
+打开以后：
+严重性	代码	说明	项目	文件	行	禁止显示状态
+错误		g++ exited with code 1, please see the Output Window - Build output for more details 
+(NOTE: the build output verbosity might need to be changed in Tools Options to see more information in the Output Window).	
+ConsoleApplication2	d:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Application 
+Type\Linux\1.0\Linux.targets	269	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
